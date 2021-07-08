@@ -4,7 +4,7 @@ import axios from "axios";
 export default function SearchWeather(props) {
   let [city, setCity] = useState("");
   let [weather, setWeather] = useState("");
-  let [temperature, setTemperature] = useState(null);
+  
   let [loading, setLoading] = useState(false);
 
   function displayWeather(response) {
