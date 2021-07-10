@@ -8,8 +8,8 @@ export default function App() {
       <h1>Weather App</h1>
       <Weather />
       <h3>
-          <a href="https://github.com/sylviaantons/vanilla.js">Open-source</a>
-          coded with 💜 by Sylvia
+          <a href="https://github.com/sylviaantons/Weather-React-App">Open-source </a>
+           coded with 💜 by Sylvia
         </h3>
         <h3>
           Hosted on
